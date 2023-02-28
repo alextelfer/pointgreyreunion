@@ -10,7 +10,7 @@ const renderer = ({ days, hours, minutes, seconds }) => (
 
 function HomePage() {
   return (
-    <PageContent title="Welcome Class of '73!">
+    <PageContent title="Welcome Class of 1973!">
       <h2 style={{textAlign: 'center'}}>Saturday September 16th, 2023  6:00pm PST</h2>
       <Countdown date={Date.UTC(2023, 8, 17, 1)} renderer={renderer} />
     </PageContent>
