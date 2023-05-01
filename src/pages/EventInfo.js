@@ -16,7 +16,7 @@ function EventInfo() {
       </p>
       <h2>What is the cost of this event?</h2>
       <p>
-        The early bird pricing has ended. Tickets of this event are $73.00
+        The early bird pricing has ended. Tickets of this event are $73.00 per
         person. Payment can be made by E-Transfer to Bill Coller at {' '}
         <a href="mailto:bcoller55@gmail.com">bcoller55@gmail.com</a>. Please
         include names of the attendees. Those that wish to pay by cheque should
