@@ -21,12 +21,22 @@ function MainNavigation() {
             </li>
             <li>
               <NavLink
-                to="/event"
+                to="/eventinfo"
                 className={({ isActive }) =>
                   isActive ? classes.active : undefined
                 }
               >
                 Event Information
+              </NavLink>
+            </li>
+            <li>
+              <NavLink
+                to="/eventsched"
+                className={({ isActive }) =>
+                  isActive ? classes.active : undefined
+                }
+              >
+                Event Schedule
               </NavLink>
             </li>
             <li>
