@@ -8,7 +8,7 @@ function About() {
       <p style={{ textAlign: 'center' }}>
         Bill Coller - <a href="mailto:bcoller55@gmail.com">bcoller55@gmail.com</a>
         <br />
-        Cathy Macrae
+        Cathy MacRae
         <br />
         Jim McIntyre
         <br />
